@@ -1,0 +1,9 @@
+[submodule "sub1"]
+	path = sub1
+	url = ../INVALID/
+[submodule "sub2"]
+	path = sub2
+	url = ../repo/
+[submodule "sub3"]
+	path = sub3
+	url = ../repo/
